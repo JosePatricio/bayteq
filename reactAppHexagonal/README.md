@@ -22,4 +22,4 @@
 ## /Infraestructure/ReservationService.ts
 ## /Infraestructure/RoomService.ts
 
-![alt text](https://raw.githubusercontent.com/JosePatricio/reactAppHexagonal/main/screenshot.png)
+![alt text](https://github.com/JosePatricio/bayteq/blob/main/Screenshot.png?raw=true)

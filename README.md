@@ -1,4 +1,3 @@
-# Descripcion del proyecto
 
 # EXTRA
 

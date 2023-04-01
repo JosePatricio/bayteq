@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUDAspNetCore5WebAPI.props" />
+</Project>

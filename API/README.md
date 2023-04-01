@@ -12,7 +12,3 @@
 ### Modificaar el la cadena de conexión de la base de datos del siguiente archivo
 ##  /API/appsettings.json
 
-
-
-
-![alt text](https://raw.githubusercontent.com/JosePatricio/reactAppHexagonal/main/screenshot.png)
